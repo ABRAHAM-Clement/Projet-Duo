@@ -12,7 +12,12 @@ html {
      black
    );
  }
-
+ .titre {
+   color: #ffffff;
+   font-family: "Poppins", serif;
+   font-size: 30px;
+   text-align: left;
+ }
 nav .test {
    position: fixed;
    display: flex;
