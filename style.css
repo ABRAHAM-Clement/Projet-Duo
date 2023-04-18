@@ -59,7 +59,7 @@ nav .test {
  }
  a i,
  a i:nth-child(2) {
-   background: linear-gradient(var(--x), #fd0a0a, #000000, #000000, #ff022c);
+   background: linear-gradient(var(--x), #5682f3, #000000, #000000, #d70955);
  }
  a i:nth-child(2) {
    filter: blur(10px);
