@@ -5,12 +5,7 @@ html {
    margin: 0px;
    padding: 0px;
    font-family: "Montserrat", sans-serif;
-   background: linear-gradient(
-     to bottom right,
-     black,
-     rgb(255, 255, 255),
-     black
-   );
+   
  }
  .titre {
    color: #ffffff;
@@ -272,4 +267,7 @@ nav .test {
    opacity: 1;
    pointer-events: all;
  }
- 
+ footer ul{
+  list-style: none;
+  display: flex;
+ }
